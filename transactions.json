@@ -1,0 +1,37 @@
+[
+    {
+        "type": "income",
+        "name": "Salary",
+        "amount": 25000.0
+    },
+    {
+        "type": "income",
+        "name": "Trading",
+        "amount": 15000.0
+    },
+    {
+        "type": "income",
+        "name": "Gold in aura",
+        "amount": 5000.0
+    },
+    {
+        "type": "expense",
+        "name": "food",
+        "amount": 2000.0
+    },
+    {
+        "type": "expense",
+        "name": "travel",
+        "amount": 1000.0
+    },
+    {
+        "type": "expense",
+        "name": "girl friend",
+        "amount": 5000.0
+    },
+    {
+        "type": "income",
+        "name": "bus",
+        "amount": 23000.0
+    }
+]
